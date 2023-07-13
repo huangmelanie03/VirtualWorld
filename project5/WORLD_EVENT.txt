@@ -1,0 +1,10 @@
+1. To trigger the stones to show up in the background, the user clicks anywhere on the screen
+
+2. When the event is triggered, a staggered row of stones should show up in the background surrounding the tile that was
+ clicked
+
+3. The affected entity is the Dude_Full and Dude_Not_Full entities. If they are within the new stones around the tile
+that was clicked on, they will turn into knights and chase the ghosts to kill them.
+
+4. A new entity, a ghost should appear exactly where the user has clicked. This ghost should move towards the fairy
+closest in the area. The ghost is trying to kill the faries.
